@@ -6,6 +6,5 @@ E:\Users\Duke\Documents\Workspace\visual studio 2010\Projects\IESFC Website\IESF
 E:\Users\Duke\Documents\WorkSpace\VS\Projects\IESFC Website\IESFC Website\bin\IESFC Website.dll.config
 E:\Users\Duke\Documents\WorkSpace\VS\Projects\IESFC Website\IESFC Website\bin\IESFC Website.dll
 E:\Users\Duke\Documents\WorkSpace\VS\Projects\IESFC Website\IESFC Website\bin\IESFC Website.pdb
-E:\Users\Duke\Documents\WorkSpace\VS\Projects\IESFC Website\IESFC Website\obj\Debug\IESFC Website.csprojResolveAssemblyReference.cache
 E:\Users\Duke\Documents\WorkSpace\VS\Projects\IESFC Website\IESFC Website\obj\Debug\IESFC Website.dll
 E:\Users\Duke\Documents\WorkSpace\VS\Projects\IESFC Website\IESFC Website\obj\Debug\IESFC Website.pdb
