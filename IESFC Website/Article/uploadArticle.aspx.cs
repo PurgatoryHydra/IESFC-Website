@@ -127,7 +127,10 @@ namespace IESFC_Website.news
                 if (result > 0)
                 {
                     Response.Write("<script>alert('添加成功！');</script>");
-                    Response.Redirect("/Default.aspx");
+                    if(type == "edit")
+                        Response.Redirect("/Article/" + articleID + ".htm");
+                    else
+                        Response.Redirect("Default.aspx");
                 }
                 else
                 {

@@ -24,14 +24,14 @@ CKEDITOR.editorConfig = function( config ) {
     ];
 
     //config for syntaxHighlight. 
-    CKEDITOR.config.syntaxhighlight_hideGutter = false;
-    CKEDITOR.config.syntaxhighlight_hideControls = false;
-    CKEDITOR.config.syntaxhighlight_collapse = false;
-    CKEDITOR.config.syntaxhighlight_codeTitle = 'code'; // default ''
-    CKEDITOR.config.syntaxhighlight_showColumns = true;
-    CKEDITOR.config.syntaxhighlight_noWrap = true;
-    CKEDITOR.config.syntaxhighlight_firstLine = 0; // default 0
-    CKEDITOR.config.syntaxhighlight_highlight = null;
+    config.syntaxhighlight_hideGutter = false;
+    config.syntaxhighlight_hideControls = false;
+    config.syntaxhighlight_collapse = false;
+    config.syntaxhighlight_codeTitle = 'code'; // default ''
+    config.syntaxhighlight_showColumns = true;
+    config.syntaxhighlight_noWrap = false;
+    config.syntaxhighlight_firstLine = 0; // default 0
+    config.syntaxhighlight_highlight = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79];
     //CKEDITOR.config.syntaxhighlight_lang = 'bash', 'shell', 'cpp', 'c', 'c#', 'c-sharp', 'csharp', 'css', 'java', 'js', 'jscript', 'javascript', 'text', 'plain', 'powershell',
     //'ps', 'py', 'python', 'sql', 'vb', 'vbnet', 'xml', 'xhtml', 'xslt', 'html'; // default null
     //CKEDITOR.config.syntaxhighlight_code = ''; // default '
